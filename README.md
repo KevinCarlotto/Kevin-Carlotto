@@ -13,7 +13,7 @@ My drive to learn and grow goes hand in hand with my enthusiasm for taking on ne
 In a perpetually evolving world, I am ready to embrace every opportunity for growth and advancement. If you are seeking someone passionate, versatile, and determined to elevate your projects to the next level, I eagerly anticipate the chance to become a part of your team!<br>
 
 Best regards,<br>
-Ky C.O
+Kevin Carlotto
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ky-c-o-695bb014b) 
