@@ -33,7 +33,7 @@ I prefer building clean, efficient, and maintainable systems over overcomplicate
 
 ## 🌐 Socials
 
-LinkedIn: https://linkedin.com/in/kevinky8  
+LinkedIn: https://linkedin.com/in/kevinky8
 Website: https://exotechhub.com/
 
 ---
