@@ -34,6 +34,7 @@ I prefer building clean, efficient, and maintainable systems over overcomplicate
 ## 🌐 Socials
 
 LinkedIn: https://linkedin.com/in/kevin-carlotto-695bb014b/
+
 Website: https://exotechhub.com/
 
 ---
